@@ -1,5 +1,5 @@
 # SpringStudy
-结合尚硅谷_Spring5视频教程，学习Spring框架
+学习Spring框架整合的笔记
 
 尚硅谷课程视频：http://www.atguigu.com/download_detail.shtml?v=287
 
